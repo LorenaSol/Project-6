@@ -3,7 +3,7 @@
 # About
 Music has become apart of our lives. Music is *everywhere*. Most cars have a radio installed having easy access to music or bluetooth. Since music is everywhere, there are various effects that it has on humans and other living things. 
 
-![music](./planty.jpg)
+![music](./music.jpg)
 
 > “I think music in itself is healing. It’s an explosive expression of humanity. It’s something we are all touched by. No matter what culture we’re from, everyone loves music.” —Billy Joel
 
